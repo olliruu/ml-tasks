@@ -1,0 +1,10 @@
+Use the anime dataset and raiting dataset at https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database?select=rating.csv
+
+1. What kind of preprocessing is necessary for the ratings dataset?
+
+2. How do the recommendation algorithms (e.g. KNN and SVD) perform with a data set of
+this magnitude? Do you encounter hardware limitations? If yes, how can you
+circumvent some of the limitations to be able to carry on with the experiment?
+
+3. Can you combine the information in the two files in a meaningful way to have the
+recommender display the titles of the recommended movies?

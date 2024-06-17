@@ -1,0 +1,27 @@
+Goal is to find ideal locations for a set of drone depots, based on the coordinates of the
+clients.
+Use the drone delivery dataset
+
+Each row starts with a customer identifier, followed by the
+geographical locations of nearly 6,000 clients.
+1. Visualize the client locations by making a two-dimensional scatterplot.
+
+Can you give a geographic interpretation for what you see?
+Using k-means clustering, find optimal locations (i.e. x and y
+coordinates) for three drone depots. Each depot should serve its
+surrounding clients.
+
+2. Attach the information on the closest depot to each client. That is, generate a data
+frame that is similar to the original one with the exception that it has an additional
+column that contains the identifier of the depot nearest to the client. Print the first 10
+rows of the new data frame.
+
+3. Make a scatterplot that uses three different colours. The markers with the same colour
+are served by the same depot.
+
+4. Play with the number of depots. What are the optimal locations for 10 depots, for
+example? Do you see a difference in the computation time when the number of depots
+increases?
+
+5. Replace k-means with agglomerative hierarchical clustering and explore it with various
+depot numbers. What are your observations?

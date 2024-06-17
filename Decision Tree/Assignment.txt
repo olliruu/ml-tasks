@@ -1,0 +1,12 @@
+Phishing refers to a family of online frauds where an Internet user is lured into submitting
+his/her sensitive data for malicious purposes.
+
+Goal is to construct a small yet useful decision tree that predicts whether a website is a phishing site or not.
+
+1. An image of the final decision tree.
+
+2. Written instructions for an internet analyst to make the decision of whether the website
+is likely to be a phishing site or not. The instructions must match one-to-one with your
+decision tree.
+
+3. The accuracy estimate (percentage of correct classifications) of your decision tree.

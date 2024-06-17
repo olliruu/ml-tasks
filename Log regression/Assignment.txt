@@ -1,0 +1,14 @@
+Your task is to make a diagnostic tool (not for real medical use) that asks a medical expert six
+numerical quantities obtained by radiographic measurements of a patient:
+1. pelvic incidence
+2. pelvic tilt
+3. lumbar lordosis angle
+4. sacral slope
+5. pelvic radius
+6. grade of spondylolisthesis
+As an output, your program should provide a probability estimate of the patient having a
+vertebral abnormality (either disk hernia or spondylolisthesis).
+
+The decisions of your diagnostic tool should be based on a logistic regression model derived
+from the data set. If possible, provide evidence on the accuracy of your tool to convince the
+ever-suspicious radiological community.

@@ -1,0 +1,5 @@
+Your task is to write a Python sentiment analysis tool that visualizes the changes in the
+affective state of a single text (e.g. a novel).
+
+Apply your tool for at least one real text (preferably a novel) and display the results. Project
+Gutenberg is a great source of online texts to experiment with. 
